@@ -1,0 +1,111 @@
+body{
+	width: 100%;
+	background: #f2f2f2;
+}
+header{
+	width: 1000px;
+	height: 50px;
+	margin: 50px  auto;
+}
+header p{
+	width: 50px;
+	margin-left: 113px;
+}
+.logo{
+	width: 50px;
+	height: 50px;
+	border: 1px solid #000000;
+	border-radius: 20%;
+	float: left;
+	margin-left: 100px;
+}
+.block >.block1{
+	margin-left: 150px;
+}
+.block{
+	width: 150px;
+	height: 20px;
+	border: 1.5px solid #000000; 
+	margin-top: 20px;
+	text-align: center;
+	border-radius: 10px 25px 25px 10px; 
+}
+.block a{
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	font-size: 15px;
+}
+.block1, .block2 {
+	float: left;
+	margin-left: 70px;
+}
+.block3{
+	float:right;
+	margin-right: 70px;
+}
+.block1{
+	margin-left: 170px;
+}
+.column3{
+	margin-top: 150px;
+}
+.column2{
+	text-align: center;
+	margin-top: 50px;
+}
+ul{	
+	list-style: none;
+	float: right;
+	margin: 0
+}
+li{
+	margin-top:10px; 
+	float: right;
+	text-align: left;
+}
+.left {
+	width: 600px;
+	height: 300px;
+	float: left;
+
+}
+.text >li> label> input{
+	width: 300px;
+}
+.text2 li input{
+	width: 55px;
+	margin-left:10px; 
+}
+.text2 .city input{
+	width: 162px;
+}
+.file{
+	float: right;
+	margin-top: 50px;
+	margin-right: 70px;
+}
+.right{
+	float: left;
+	width: 500px;
+	height: 300px;
+}
+.right ul li {
+	float: right;
+}
+.right span{
+	margin: 10px 0 0 152px;
+	font-size: 15px; 
+}
+.chec{
+	margin: 0 auto;
+	width: 100px;
+}
+.chec input{
+	margin: 20px auto;
+}
+.chec input[type="submit"]{
+	width: 150px;
+	height: 50px;
+}
+
